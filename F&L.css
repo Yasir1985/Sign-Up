@@ -1,0 +1,81 @@
+#top{
+	
+	margin-top:2%;
+	
+}
+ 
+ fieldset{
+	 
+	 margin-right:40%;
+	 margin-left:40%;
+	 background-color:transparent;
+	 width:300px;
+	 font-family:arial;
+	 border-radius:10px;
+	 border-width:5px;
+ }
+ h1{text-align:center;
+font-stretch:condensed;
+font-style:italic;
+ }
+ 
+ label{
+	 
+	 font-size:18px;
+	 
+	 	 
+ }
+ input{
+	 margin-top:10px;
+	 margin-bottom:10px;
+	 width:100%;
+	 height:25px;
+	 border-radius:5px;
+	/* background-color:transparent;*/
+	 }
+ #bio{
+	 margin-top:10px;
+	 width:100%;
+	 height:100px;
+	 border-radius:5px;
+	 /*background-color:transparent;*/
+ }
+ legend{
+	 font-weight:bold;
+	 
+	 
+ }
+ button{
+	 width:100%;
+	 height:50px;
+	 margin-top:10px;
+	 border-radius:10px;
+	 background-color:lightblue;;
+	 font-size:16px;
+	 font-weight:bold;
+	 font-style:italic;
+	 
+	 
+ 
+ }
+ body{
+	 
+	 background-image:url("img.jpg");
+	 background-size:cover;
+ }
+ #hbio{
+	 height:10px;
+	 margin-top:10px;
+	 margin-bottom:10px;
+ }
+ .number{
+	 border:1px solid black;
+	 border-radius:100%;
+	 padding:5px 10px 5px 10px;
+	 color:white;
+	 background-color:darkgreen;
+ }
+ #bottom{
+	 margin-top:10px;
+	 
+ }
